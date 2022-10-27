@@ -14,7 +14,8 @@ Terdapat Fungsi Edit Task untuk mengubah atau update To Do list yang sudah ada d
 
 ![Edit Task](https://user-images.githubusercontent.com/115199962/197787438-d30ea3a5-15b3-4ef2-9395-eb7df0a67e3f.png)
 
-Terdapat Fungsi Check / Done / Delete untuk menghapus To Do list yang sudah dilakukan
+Terdapat Fungsi Check / Done / Delete untuk menghapus To Do list yang sudah dilakukan dikerjakan oleh Justine Ferdhika
+
 Dan List View untuk menampilkan To Do list dikerjakan oleh Muhamad Anis
 
 ![Home](https://user-images.githubusercontent.com/115199962/197787470-05a791f3-e34e-4aa1-b9e1-d732aff40e1b.png)
